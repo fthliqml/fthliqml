@@ -28,7 +28,7 @@ Hi there! 👋 I'm a passionate **Fullstack Web Developer** focused on building 
 - 🔭 I’m currently working on **Awesome Web Application**
 - 🌱 I’m currently learning **System Design & Cloud Architecture**
 - 💬 Ask me about **Next.js, Laravel, Go, and Web Performance**
-- ⚡ Fun fact: **I'm a gym rat**
+- ⚡ Fun fact: 
 
 ---
 
