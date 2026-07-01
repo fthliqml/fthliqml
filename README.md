@@ -23,12 +23,13 @@
 
 ### 👨‍💻 About Me
 
-Hi there! 👋 I'm a passionate **Fullstack Web Developer** focused on building robust and scalable web applications. I enjoy working across the entire stack, from crafting beautiful user interfaces to designing solid backend architectures.
+I’m a Full-Stack Web Developer with 2+ years of hands-on experience building end-to-end web applications. I enjoy translating business requirements into practical, maintainable systems, from responsive user interfaces and API development to system integration, testing, and deployment.
 
-- 🔭 I’m currently working on **Awesome Web Application**
-- 🌱 I’m currently learning **System Design & Cloud Architecture**
-- 💬 Ask me about **Next.js, Laravel, Go, and Web Performance**
-- ⚡ Fun fact: 
+* Focused on Next.js, TypeScript, Laravel, Node.js, Express.js, and REST APIs
+* Experienced in building business-focused web applications and internal systems
+* Currently learning system design, cloud infrastructure, Docker, and scalable backend architecture
+* Interested in API design, workflow automation, clean architecture, and AI-assisted development
+* Open to full-stack web development collaboration and remote opportunities
 
 ---
 
