@@ -5,10 +5,10 @@
 
 <!-- QUICK INTRO -->
 <div align="center">
-  <a href="https://yourportfolio.com">
+  <a href="https://iqmal.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=safari&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mfi-iqmal">
+  <a href="https://linkedin.com/in/mfiiqmal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/fthliqml">
